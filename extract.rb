@@ -76,28 +76,21 @@ selectors = %w(
 
 csv_string = CSV.generate do |csv|
 
-  # output column names
   csv << selectors.map { |s| s.split(/\//).drop(2).join('-') }
 
   ARGV.each do |a|
 
     STDERR.puts "Processing #{a}"
 
-    handle = File.open(a)
-    document = Oga.parse_xml(handle)
+    document = File.open(a) { |f| Oga.parse_xml(f) }
 
-    cols = []
-
-    selectors.each do |s|
+    csv << selectors.map do |s|
       el = document.at_xpath(s)
       if el
-        cols << el.text
-      else
-        cols << nil
+        el.text
       end
     end
 
-    csv << cols
   end
 
 end

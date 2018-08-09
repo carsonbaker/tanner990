@@ -16,3 +16,6 @@ Prettify index_2017.json:
 Master concordance file:
 
 * https://raw.githubusercontent.com/Nonprofit-Open-Data-Collective/irs-efile-master-concordance-file/master/efiler_master_concordance.csv
+
+To run:
+`ruby extract.rb downloads/* > example_extract-99.csv`

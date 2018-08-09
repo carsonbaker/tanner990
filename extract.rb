@@ -20,7 +20,7 @@ csv_string = CSV.generate do |csv|
 
   ARGV.each do |a|
 
-    puts "Processing #{a}"
+    STDERR.puts "Processing #{a}"
 
     handle = File.open(a)
     document = Oga.parse_xml(handle)

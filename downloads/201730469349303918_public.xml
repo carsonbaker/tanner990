@@ -1,0 +1,1430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v3.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-02-15T17:47:00-08:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Ryan &amp; McDonald LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>913 Blanco Circle</AddressLine1Txt>
+        <CityNm>Salinas</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>93901</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>941156652</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SANTA CATALINA SCHOOL</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SANT</BusinessNameControlTxt>
+      <PhoneNum>8316559334</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1500 MARK THOMAS DRIVE</AddressLine1Txt>
+        <CityNm>MONTEREY</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>93940</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Margaret Bradley</PersonNm>
+      <PersonTitleTxt>Head of School</PersonTitleTxt>
+      <SignatureDt>2017-02-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Margaret Treanor</PreparerPersonNm>
+      <PTIN>P00118995</PTIN>
+      <PhoneNum>8317846000</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <PrincipalOfficerNm>Margaret Bradley</PrincipalOfficerNm>
+      <GrossReceiptsAmt>25666844</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <AllAffiliatesIncludedInd>false</AllAffiliatesIncludedInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>www.santacatalina.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1950</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>Santa Catalina is an Independent School for Grades Pre-K through 12 whose Mission Statement is: Excellence. Spirituality. Responsibility. Service. Santa Catalina School exists to develop in each student a striving for excellence, a maturing awareness of moral and spiritual values, a sense of responsible purpose, and a determination to serve the world with courage, graciousness, and compassion.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>30</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>30</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>240</TotalEmployeeCnt>
+      <TotalVolunteersCnt>20</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <PYContributionsGrantsAmt>5750471</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>3425337</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>16020714</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>16302698</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>2092412</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>1663233</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>266879</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>518562</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>24130476</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>21909830</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>2665980</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>2690297</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>11203147</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>11457434</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>985492</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>5091509</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>5356554</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>18960636</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>19504285</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>5169840</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>2405545</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>95156795</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>94896053</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>15549019</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>15665308</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>79607776</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>79230745</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>Santa Catalina is an Independent School for Grades Pre-K through 12 whose Mission Statement is: Excellence. Spirituality. Responsibility. Service. Santa Catalina School exists to develop in each student a striving for excellence, a maturing awareness of moral and spiritual values, a sense of responsible purpose, and a determination to serve the world with courage, graciousness, and compassion.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>14504153</ExpenseAmt>
+      <GrantAmt>2690297</GrantAmt>
+      <RevenueAmt>15489578</RevenueAmt>
+      <Desc>The primary service activity is the furnishing of a formal education to students in preschool through grade 12.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>504910</ExpenseAmt>
+        <RevenueAmt>662735</RevenueAmt>
+        <Desc>Summer at Santa Catalina is education for girls entering grades 3 through 9.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <TotalProgramServiceExpensesAmt>15009063</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="IRS990ScheduleA">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="IRS990ScheduleD">false</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="IRS990ScheduleD">false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="IRS990ScheduleD">true</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="IRS990ScheduleD">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="IRS990ScheduleD">true</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="IRS990ScheduleD">false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="IRS990ScheduleD">false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="IRS990ScheduleD">false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="IRS990ScheduleD">false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd referenceDocumentId="IRS990ScheduleE">true</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd referenceDocumentId="IRS990ScheduleG">false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="IRS990ScheduleG">true</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="IRS990ScheduleG">false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="IRS990ScheduleI">false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="IRS990ScheduleI">true</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <InvestTaxExemptBondsInd>false</InvestTaxExemptBondsInd>
+      <EscrowAccountInd>false</EscrowAccountInd>
+      <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd referenceDocumentId="IRS990ScheduleM">true</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd referenceDocumentId="IRS990ScheduleM">false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>65</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>true</BackupWthldComplianceInd>
+      <EmployeeCnt>240</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>false</Form990TFiledInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>true</QuidProQuoContributionsInd>
+      <QuidProQuoContriDisclInd>true</QuidProQuoContriDisclInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <Form8282FiledCnt>0</Form8282FiledCnt>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <Form8899Filedind>false</Form8899Filedind>
+      <Form1098CFiledInd>false</Form1098CFiledInd>
+      <DAFExcessBusinessHoldingsInd>false</DAFExcessBusinessHoldingsInd>
+      <TaxableDistributionsInd>false</TaxableDistributionsInd>
+      <DistributionToDonorInd>false</DistributionToDonorInd>
+      <OrgFiledInLieuOfForm1041Ind>false</OrgFiledInLieuOfForm1041Ind>
+      <LicensedMoreThanOneStateInd>false</LicensedMoreThanOneStateInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>30</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>30</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>true</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>true</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>true</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>JULIE LAMBERT</PersonNm>
+        <PhoneNum>8316559334</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>SANTA CATALINA SCHOOL1500 MARK THOM</AddressLine1Txt>
+          <CityNm>MONTEREY</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>93940</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS MICHELLE BLAKE</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS JUDITH MCDONALD MOSES</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS NONIE B RAMSAY</PersonNm>
+        <TitleTxt>Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS PETER B BEDFORD</PersonNm>
+        <TitleTxt>Vice-Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR W TAYLOR FITHIAN III</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS JENNIFER W BUDGE</PersonNm>
+        <TitleTxt>Vice-Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS KIT Y WAI</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR HERM EDWARDS</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR FREDERICK M BATES</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR ROBERT C BOLT</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR CURT A BREITFUSS</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR MICHAEL D BRUNO</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR JAMES FARLEY JR</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS KATHERINE ERNST</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR EDWARD KING</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR PETER M FOLGER</PersonNm>
+        <TitleTxt>Vice-Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS MARY MOSLANDER</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR FRANK GARCIA</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR MATTHEW T GIBBS II</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS CAROLYN O'BRIEN</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR KENNETH PEYTON</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR L DOUGLAS MCKENZIE</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR REUBEN RICHARDS</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR VICTOR RAMIREZ</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR MICHAEL ROFFLER</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS TRACY HASS</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS ELIZABETH R HULME</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR WESLEY VON SCHACK</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MR PAUL J FELTON</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MRS SHANNON MCCLENNAHAN MOZES</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>0.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SISTER CLAIRE BARONE</PersonNm>
+        <TitleTxt>Head of School</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>193957</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>47653</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JOHN AIME</PersonNm>
+        <TitleTxt>ASSISTANT HEAD OF SCHOOL</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <KeyEmployeeInd>X</KeyEmployeeInd>
+        <ReportableCompFromOrgAmt>162500</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>20612</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR JOHN MURPHY</PersonNm>
+        <TitleTxt>U/S HEAD</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <KeyEmployeeInd>X</KeyEmployeeInd>
+        <ReportableCompFromOrgAmt>138369</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>61748</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RICHARD PATTERSON</PersonNm>
+        <TitleTxt>ASSISTANT HEAD OF ADVANCEMENT</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <KeyEmployeeInd>X</KeyEmployeeInd>
+        <ReportableCompFromOrgAmt>159086</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>46285</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LAURIE SEVERS</PersonNm>
+        <TitleTxt>DIRECTOR OF DEVLP</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>136295</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>23651</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RITA ALVES</PersonNm>
+        <TitleTxt>BUSINESS MANAGER</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>120572</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>19095</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHRISTY POLLACCI</PersonNm>
+        <TitleTxt>DIR OF U/S L/S ADM</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>137153</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>16260</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KASSANDRA T BRENOT</PersonNm>
+        <TitleTxt>HEAD OF UPPER SCH</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>105524</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>30033</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JANET S LUKSIK</PersonNm>
+        <TitleTxt>DIR OF ADMISSIONS</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>105625</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>9892</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>1259081</TotalReportableCompFromOrgAmt>
+      <TotalOtherCompensationAmt>275229</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>9</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>true</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>AVILA CONTRUCTION COMPANY</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>12 THOMAS OWENS WAY SUITE 200</AddressLine1Txt>
+            <CityNm>MONTEREY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93940</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>CONSTRUCTION</ServicesDesc>
+        <CompensationAmt>9239475</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>BON APPETIT</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>COMPASS GROUP P O BOX 50196</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90074</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>FOOD SERVICE</ServicesDesc>
+        <CompensationAmt>873518</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>ANDERSON BRULE ARCHITECTS INC</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>325 SOUTH FIRST STREET 4TH FL</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95113</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>ARCHITECTURE</ServicesDesc>
+        <CompensationAmt>302799</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>PENINSULA BUSINESS INTERIORS</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>325 MAIN STREET</AddressLine1Txt>
+            <CityNm>SALINAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93901</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>INTERIOR DESIGN</ServicesDesc>
+        <CompensationAmt>259491</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>NEUSTADT CREATIVE MARKETING</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>1714 EASTERN AVENUE</AddressLine1Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21231</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>MARKETING</ServicesDesc>
+        <CompensationAmt>239524</CompensationAmt>
+      </ContractorCompensationGrp>
+      <CntrctRcvdGreaterThan100KCnt>9</CntrctRcvdGreaterThan100KCnt>
+      <FundraisingAmt>88390</FundraisingAmt>
+      <AllOtherContributionsAmt>3336947</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>476585</NoncashContributionsAmt>
+      <TotalContributionsAmt>3425337</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>MUSIC LESSON FEES</Desc>
+        <TotalRevenueColumnAmt>145860</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>145860</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>SUMMER TUITION</Desc>
+        <TotalRevenueColumnAmt>662735</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>662735</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>TRANSPORTATION FEES</Desc>
+        <TotalRevenueColumnAmt>4525</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>4525</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>TUITION</Desc>
+        <TotalRevenueColumnAmt>15489578</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>15489578</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>16302698</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>370856</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>370856</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <IncmFromInvestBondProceedsGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </IncmFromInvestBondProceedsGrp>
+      <RoyaltiesRevenueGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </RoyaltiesRevenueGrp>
+      <GrossRentsGrp>
+        <RealAmt>58737</RealAmt>
+      </GrossRentsGrp>
+      <LessRentalExpensesGrp>
+        <RealAmt>5240</RealAmt>
+      </LessRentalExpensesGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>53497</RealAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>53497</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>53497</RelatedOrExemptFuncIncomeAmt>
+      </NetRentalIncomeOrLossGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>4858978</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>3566601</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>1292377</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>1292377</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1292377</RelatedOrExemptFuncIncomeAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <FundraisingGrossIncomeAmt>163537</FundraisingGrossIncomeAmt>
+      <ContriRptFundraisingEventAmt>88390</ContriRptFundraisingEventAmt>
+      <FundraisingDirectExpensesAmt>50842</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>112695</TotalRevenueColumnAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <NetIncomeFromGamingGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncomeFromGamingGrp>
+      <GrossSalesOfInventoryAmt>164801</GrossSalesOfInventoryAmt>
+      <CostOfGoodsSoldAmt>134331</CostOfGoodsSoldAmt>
+      <NetIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>30470</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>30470</RelatedOrExemptFuncIncomeAmt>
+      </NetIncomeOrLossGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>APPLICATION FEES</Desc>
+        <TotalRevenueColumnAmt>22527</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>22527</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>GRADUATION FEES</Desc>
+        <TotalRevenueColumnAmt>18350</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>18350</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER REVENUE</Desc>
+        <TotalRevenueColumnAmt>281023</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>281023</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>321900</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>21909830</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>18371798</RelatedOrExemptFuncIncomeAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>2690297</TotalAmt>
+        <ProgramServicesAmt>2690297</ProgramServicesAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <ForeignGrantsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ForeignGrantsGrp>
+      <BenefitsToMembersGrp>
+        <TotalAmt>0</TotalAmt>
+      </BenefitsToMembersGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>991812</TotalAmt>
+        <ProgramServicesAmt>514964</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>335740</ManagementAndGeneralAmt>
+        <FundraisingAmt>141108</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <CompDisqualPersonsGrp>
+        <TotalAmt>0</TotalAmt>
+      </CompDisqualPersonsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>8013301</TotalAmt>
+        <ProgramServicesAmt>5739699</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1766018</ManagementAndGeneralAmt>
+        <FundraisingAmt>507584</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>567741</TotalAmt>
+        <ProgramServicesAmt>391655</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>151335</ManagementAndGeneralAmt>
+        <FundraisingAmt>24751</FundraisingAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>1261936</TotalAmt>
+        <ProgramServicesAmt>1036037</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>175738</ManagementAndGeneralAmt>
+        <FundraisingAmt>50161</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>622644</TotalAmt>
+        <ProgramServicesAmt>421968</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>155059</ManagementAndGeneralAmt>
+        <FundraisingAmt>45617</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesManagementGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesManagementGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesLobbyingGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesLobbyingGrp>
+      <FeesForServicesProfFundraising>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesProfFundraising>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>0</TotalAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>0</TotalAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>0</TotalAmt>
+      </InformationTechnologyGrp>
+      <RoyaltiesGrp>
+        <TotalAmt>0</TotalAmt>
+      </RoyaltiesGrp>
+      <OccupancyGrp>
+        <TotalAmt>0</TotalAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>0</TotalAmt>
+      </TravelGrp>
+      <PymtTravelEntrtnmntPubOfclGrp>
+        <TotalAmt>0</TotalAmt>
+      </PymtTravelEntrtnmntPubOfclGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>0</TotalAmt>
+      </InterestGrp>
+      <PaymentsToAffiliatesGrp>
+        <TotalAmt>0</TotalAmt>
+      </PaymentsToAffiliatesGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>1371019</TotalAmt>
+        <ProgramServicesAmt>1246451</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>111387</ManagementAndGeneralAmt>
+        <FundraisingAmt>13181</FundraisingAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>0</TotalAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>FOOD SERVICE</Desc>
+        <TotalAmt>680383</TotalAmt>
+        <ProgramServicesAmt>680383</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>PLANT UTILITIES</Desc>
+        <TotalAmt>481983</TotalAmt>
+        <ProgramServicesAmt>481983</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>PLANT MAINTENANCE</Desc>
+        <TotalAmt>291799</TotalAmt>
+        <ProgramServicesAmt>291799</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>INSTRUCTIONAL STUDENT SUPPORT</Desc>
+        <TotalAmt>263969</TotalAmt>
+        <ProgramServicesAmt>263969</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>2267401</TotalAmt>
+        <ProgramServicesAmt>1249858</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>814453</ManagementAndGeneralAmt>
+        <FundraisingAmt>203090</FundraisingAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>19504285</TotalAmt>
+        <ProgramServicesAmt>15009063</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3509730</ManagementAndGeneralAmt>
+        <FundraisingAmt>985492</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>10623897</BOYAmt>
+        <EOYAmt>6027859</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <EOYAmt>0</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>8273542</BOYAmt>
+        <EOYAmt>7929994</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>6604731</BOYAmt>
+        <EOYAmt>6044348</EOYAmt>
+      </AccountsReceivableGrp>
+      <ReceivablesFromOfficersEtcGrp>
+        <EOYAmt>0</EOYAmt>
+      </ReceivablesFromOfficersEtcGrp>
+      <RcvblFromDisqualifiedPrsnGrp>
+        <EOYAmt>0</EOYAmt>
+      </RcvblFromDisqualifiedPrsnGrp>
+      <OthNotesLoansReceivableNetGrp>
+        <BOYAmt>395679</BOYAmt>
+        <EOYAmt>359710</EOYAmt>
+      </OthNotesLoansReceivableNetGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>71747</BOYAmt>
+        <EOYAmt>77351</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>256061</BOYAmt>
+        <EOYAmt>350887</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>66144844</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>23718213</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>36051292</BOYAmt>
+        <EOYAmt>42426631</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>17976162</BOYAmt>
+        <EOYAmt>15623002</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>14539233</BOYAmt>
+        <EOYAmt>15682210</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <InvestmentsProgramRelatedGrp>
+        <EOYAmt>0</EOYAmt>
+      </InvestmentsProgramRelatedGrp>
+      <IntangibleAssetsGrp>
+        <EOYAmt>0</EOYAmt>
+      </IntangibleAssetsGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>364451</BOYAmt>
+        <EOYAmt>374061</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>95156795</BOYAmt>
+        <EOYAmt>94896053</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>2073009</BOYAmt>
+        <EOYAmt>1001871</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>12213787</BOYAmt>
+        <EOYAmt>11700208</EOYAmt>
+      </DeferredRevenueGrp>
+      <MortgNotesPyblScrdInvstPropGrp>
+        <BOYAmt>983223</BOYAmt>
+        <EOYAmt>2746229</EOYAmt>
+      </MortgNotesPyblScrdInvstPropGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>279000</BOYAmt>
+        <EOYAmt>217000</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>15549019</BOYAmt>
+        <EOYAmt>15665308</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>42534998</BOYAmt>
+        <EOYAmt>48907059</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TemporarilyRstrNetAssetsGrp>
+        <BOYAmt>19797825</BOYAmt>
+        <EOYAmt>12102914</EOYAmt>
+      </TemporarilyRstrNetAssetsGrp>
+      <PermanentlyRstrNetAssetsGrp>
+        <BOYAmt>17274953</BOYAmt>
+        <EOYAmt>18220772</EOYAmt>
+      </PermanentlyRstrNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>79607776</BOYAmt>
+        <EOYAmt>79230745</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>95156795</BOYAmt>
+        <EOYAmt>94896053</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>2405545</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>-2854186</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>71610</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>true</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>true</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <SchoolInd>X</SchoolInd>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="IRS990ScheduleD" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>28984236</BeginningYearBalanceAmt>
+        <ContributionsAmt>945869</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-1269456</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>660539</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>577461</OtherExpendituresAmt>
+        <EndYearBalanceAmt>27422649</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>28818067</BeginningYearBalanceAmt>
+        <ContributionsAmt>719012</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>630157</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>632247</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>550753</OtherExpendituresAmt>
+        <EndYearBalanceAmt>28984236</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>25665079</BeginningYearBalanceAmt>
+        <ContributionsAmt>515022</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>3769966</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>611531</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>520469</OtherExpendituresAmt>
+        <EndYearBalanceAmt>28818067</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>23488632</BeginningYearBalanceAmt>
+        <ContributionsAmt>317171</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>2953276</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>586050</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>507950</OtherExpendituresAmt>
+        <EndYearBalanceAmt>25665079</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>24150545</BeginningYearBalanceAmt>
+        <ContributionsAmt>300390</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>120697</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>563866</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>519134</OtherExpendituresAmt>
+        <EndYearBalanceAmt>23488632</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>0.03862</BoardDesignatedBalanceEOYPct>
+      <PrmnntEndowmentBalanceEOYPct>0.66444</PrmnntEndowmentBalanceEOYPct>
+      <TermEndowmentBalanceEOYPct>0.29694</TermEndowmentBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>false</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>false</EndowmentsHeldRelatedOrgInd>
+      <RelatedOrgListSchRInd>false</RelatedOrgListSchRInd>
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>976145</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>976145</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>45176654</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>13248540</DepreciationAmt>
+        <BookValueAmt>31928114</BookValueAmt>
+      </BuildingsGrp>
+      <LeaseholdImprovementsGrp>
+        <OtherCostOrOtherBasisAmt>6940848</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>3890036</DepreciationAmt>
+        <BookValueAmt>3050812</BookValueAmt>
+      </LeaseholdImprovementsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>7899564</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>6163880</DepreciationAmt>
+        <BookValueAmt>1735684</BookValueAmt>
+      </EquipmentGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>5151633</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>415757</DepreciationAmt>
+        <BookValueAmt>4735876</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>42426631</TotalBookValueLandBuildingsAmt>
+      <TotalBookValueSecuritiesAmt>15682210</TotalBookValueSecuritiesAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>ANNUITY OBLIGATIONS</Desc>
+        <Amt>217000</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>217000</TotalLiabilityAmt>
+      <TotalRevEtcAuditedFinclStmtAmt>15648282</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>-2854186</NetUnrealizedGainsInvstAmt>
+      <OtherRevenueAmt>-3407362</OtherRevenueAmt>
+      <RevenueNotReportedAmt>-6261548</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>21909830</RevenueSubtotalAmt>
+      <TotalRevenuePerForm990Amt>21909830</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>16025313</TotExpnsEtcAuditedFinclStmtAmt>
+      <OtherExpensesIncludedAmt>-3478972</OtherExpensesIncludedAmt>
+      <ExpensesNotReportedAmt>-3478972</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>19504285</ExpensesSubtotalAmt>
+      <TotalExpensesPerForm990Amt>19504285</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part V, Line 4: Intended uses of the endowment fund.</FormAndLineReferenceDesc>
+        <ExplanationTxt>The School's endowment consists of a number of individual funds established for a variety of purposes, including scholarships, faculty professional growth, technology, and general operations. The School's endowment includes both donor-restricted endowment funds and funds designated by the Board of Trustees to function as endowments.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleE documentId="IRS990ScheduleE" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <NondiscriminatoryPolicyStmtInd>true</NondiscriminatoryPolicyStmtInd>
+      <PolicyStmtInBrochuresEtcInd>true</PolicyStmtInBrochuresEtcInd>
+      <PlcyPblczdViaBroadcastMediaInd>true</PlcyPblczdViaBroadcastMediaInd>
+      <MaintainRacialCompRecsInd>true</MaintainRacialCompRecsInd>
+      <MaintainScholarshipsRecsInd>true</MaintainScholarshipsRecsInd>
+      <MaintainCpyOfBrochuresEtcInd>true</MaintainCpyOfBrochuresEtcInd>
+      <MaintainCpyOfAllSolInd>true</MaintainCpyOfAllSolInd>
+      <DiscriminateRaceStdntsRghtsInd>false</DiscriminateRaceStdntsRghtsInd>
+      <DiscriminateRaceAdmissPlcyInd>false</DiscriminateRaceAdmissPlcyInd>
+      <DiscriminateRaceEmplmFcultyInd>false</DiscriminateRaceEmplmFcultyInd>
+      <DiscriminateRaceSchsInd>false</DiscriminateRaceSchsInd>
+      <DiscriminateRaceEducPlcyInd>false</DiscriminateRaceEducPlcyInd>
+      <DiscriminateRaceUseOfFcltsInd>false</DiscriminateRaceUseOfFcltsInd>
+      <DiscriminateRaceAthltProgInd>false</DiscriminateRaceAthltProgInd>
+      <DiscriminateRaceOtherActyInd>false</DiscriminateRaceOtherActyInd>
+      <GovernmentFinancialAidRcvdInd>false</GovernmentFinancialAidRcvdInd>
+      <GovernmentFinancialAidRvkdInd>false</GovernmentFinancialAidRvkdInd>
+      <ComplianceWithRevProc7550Ind>true</ComplianceWithRevProc7550Ind>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule E, Line 3 - Racially Nondiscriminatory Policy Publicized</FormAndLineReferenceDesc>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule E, Line 4 - Explanation of Records and Materials Not Maintained</FormAndLineReferenceDesc>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule E, Line 5 - Explanation of Organization Discrimination by Race</FormAndLineReferenceDesc>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleE>
+    <IRS990ScheduleG documentId="IRS990ScheduleG" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <MailSolicitationsInd>X</MailSolicitationsInd>
+      <EmailSolicitationsInd>X</EmailSolicitationsInd>
+      <PhoneSolicitationsInd>X</PhoneSolicitationsInd>
+      <InPersonSolicitationsInd>X</InPersonSolicitationsInd>
+      <SolicitationOfNonGovtGrantsInd>X</SolicitationOfNonGovtGrantsInd>
+      <SpecialFundraisingEventsInd>X</SpecialFundraisingEventsInd>
+      <AgrmtProfFundraisingActyInd>true</AgrmtProfFundraisingActyInd>
+      <FundraisingEventInformationGrp>
+        <Event1Nm>BENEFIT CELEBRATION</Event1Nm>
+        <GrossReceiptsEvent1Amt>251927</GrossReceiptsEvent1Amt>
+        <CharitableContriEvent1Amt>88390</CharitableContriEvent1Amt>
+        <GrossRevenueEvent1Amt>163537</GrossRevenueEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>50842</OtherDirectExpensesEvent1Amt>
+        <GrossReceiptsTotalAmt>251927</GrossReceiptsTotalAmt>
+        <CharitableContributionsTotAmt>88390</CharitableContributionsTotAmt>
+        <GrossRevenueTotalEventsAmt>163537</GrossRevenueTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>50842</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>50842</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>112695</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="IRS990ScheduleI" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <GrantRecordsMaintainedInd>true</GrantRecordsMaintainedInd>
+      <Total501c3OrgCnt>0</Total501c3OrgCnt>
+      <TotalOtherOrgCnt>0</TotalOtherOrgCnt>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>FINANCIAL AID</GrantTypeTxt>
+        <RecipientCnt>187</RecipientCnt>
+        <NonCashAssistanceAmt>2690297</NonCashAssistanceAmt>
+        <ValuationMethodUsedDesc>FMV</ValuationMethodUsedDesc>
+        <NonCashAssistanceDesc>TUITION, ROOM &amp; BOARD</NonCashAssistanceDesc>
+      </GrantsOtherAsstToIndivInUSGrp>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <HousingAllowanceOrResidenceInd>X</HousingAllowanceOrResidenceInd>
+      <WrittenPolicyRefTAndEExpnssInd>true</WrittenPolicyRefTAndEExpnssInd>
+      <SubstantiationRequiredInd>true</SubstantiationRequiredInd>
+      <CompensationCommitteeInd>X</CompensationCommitteeInd>
+      <WrittenEmploymentContractInd>X</WrittenEmploymentContractInd>
+      <CompensationSurveyInd>X</CompensationSurveyInd>
+      <BoardOrCommitteeApprovalInd>X</BoardOrCommitteeApprovalInd>
+      <SeverancePaymentInd>false</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>false</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>false</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>false</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>false</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>false</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>false</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>false</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>false</InitialContractExceptionInd>
+      <RebuttablePresumptionProcInd>false</RebuttablePresumptionProcInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>CHRISTY POLLACCI</PersonNm>
+        <TitleTxt>DIR OF U/S L/S ADM</TitleTxt>
+        <BaseCompensationFilingOrgAmt>137153</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>13767</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>2493</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>153413</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>DR JOHN MURPHY</PersonNm>
+        <TitleTxt>U/S HEAD</TitleTxt>
+        <BaseCompensationFilingOrgAmt>138369</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>13703</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>48045</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>200117</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>JOHN AIME</PersonNm>
+        <TitleTxt>ASSISTANT HEAD OF SCHOOL</TitleTxt>
+        <BaseCompensationFilingOrgAmt>162500</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>16567</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>4045</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>183112</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>LAURIE SEVERS</PersonNm>
+        <TitleTxt>DIRECTOR OF DEVLP</TitleTxt>
+        <BaseCompensationFilingOrgAmt>136295</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>11088</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>12563</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>159946</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>RICHARD PATTERSON</PersonNm>
+        <TitleTxt>ASSISTANT HEAD OF ADVANCEMENT</TitleTxt>
+        <BaseCompensationFilingOrgAmt>159086</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>10540</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>35745</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>205371</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>SISTER CLAIRE BARONE</PersonNm>
+        <TitleTxt>Head of School</TitleTxt>
+        <BaseCompensationFilingOrgAmt>193957</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>19708</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>27945</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>241610</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I, Line 1a: Relevant information in regards to selections on 1a.</FormAndLineReferenceDesc>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleM documentId="IRS990ScheduleM" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <SecuritiesPubliclyTradedGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <ContributionCnt>16</ContributionCnt>
+        <NoncashContributionsRptF990Amt>476585</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>FMV</MethodOfDeterminingRevenuesTxt>
+      </SecuritiesPubliclyTradedGrp>
+      <AnyPropertyThatMustBeHeldInd>false</AnyPropertyThatMustBeHeldInd>
+      <ReviewProcessUnusualNCGiftsInd>false</ReviewProcessUnusualNCGiftsInd>
+      <ThirdPartiesUsedInd>false</ThirdPartiesUsedInd>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="15000324" softwareVersionNum="2015v3.0">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Line 11b: Form 990 Review Process</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE AUDIT COMMITTEE HAS PRIMARY RESPONSIBILITY FOR COORDINATING WITH THE ADMINISTRATION ON THE PREPARATION OF THE FORM 990. THE FORM IS REVIEWED BY THE FINANCE COMMITTEE AND MADE AVAILABLE TO EVERY BOARD MEMBER.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Line 12c: Explanation of Monitoring and Enforcement of Conflicts</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE BOARD OF TRUSTEES MUST APPROVE OR DISAPPROVE ANY TRANSACTION IN WHICH THE SCHOOL IS A PARTY AND IN WHICH ONE OR MORE INTERESTED PERSONS HAS A MATERIAL FINANCIAL INTEREST OR OTHER POTENTIAL CONFLICT OF INTEREST. ANY INTERESTED PERSON HAVING A CONFLICT OF INTEREST OR POSSIBLE CONFLICT OF INTEREST ON ANY MATTER SHALL NOT VOTE ON NOR PERSONALLY INFLUENCE SUCH MATTER. THE MINUTES OF THE RELEVANT BOARD MEETING(S) SHALL REFLECT THAT A DISCLOSURE WAS MADE, AND THAT THE PERSON HAVING A CONFLICT DID NOT PARTICIPATE IN THE DISCUSSIONS REGARDING THE MATTER NOR VOTE ON THE MATTER. THOSE TRUSTEES VOTING ON THE TRANSACTION MUST APPROVE THE TRANSACTION BY A VOTE WHICH CONSTITUTES A MAJORITY OF THE ENTIRE MEMBERSHIP OF THE BOARD OF TRUSTEES, WITHOUT COUNTING THE VOTE OF ANY PERSON WHO HAS AN INTEREST IN THE TRANSACTION.THE SCHOOL SHALL NOT ENGAGE IN ANY TRANSACTION WITH ANOTHER ENTITY WHICH HAS ONE OR MORE DIRECTORS IN COMMON WITH THE SCHOOL, UNLESS AFTER THE INTERESTED PERSON DISCLOSES THE FACTS OF THE TRANSACTIONS AND THE DETAILS OF HIS OR HER AFFILIATION WITH THE OTHER ENTITY, THOSE TRUSTEES VOTING ON THE TRANSACTION APPROVE THE TRANSACTION BY A VOTE WHICH CONSTITUTES A MAJORITY OF THE ENTIRE MEMBERSHIP OF THE BOARD OF TRUSTEES, WITHOUT COUNTING THE VOTE OF THE INTERESTED PERSON.ANNUALLY, THE CHAIR OF THE BOARD WILL SEND TO EACH MEMBER OF THE BOARD OF TRUSTEES, EACH OFFICER OF THE CORPORATION, AND EACH HIGHLY COMPENSATED EMPLOYEE A COPY OF THIS CONFLICT OF INTEREST POLICY, AS AMENDED FROM TIME TO TIME, TOGETHER WITH A CONFLICT OF INTEREST DISCLOSURE STATEMENT TO BE COMPLETED AND RETURNED TO THE CHAIR OF THE BOARD.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Line 15b: Compensation Review and Approval Process for Officers and Key Employees</FormAndLineReferenceDesc>
+        <ExplanationTxt>COMPENSATION FOR THE HEAD OF SCHOOL AND ANY OTHER "DISQUALIFIED PERSON" UNDER INTERNAL REVENUE CODE SECTION 4958 SHALL BE SET IN CONFORMITY WITH THE SAFE HARBOR PROVISIONS UNDER THE INTERMEDIATE SANCTIONS RULE OF THE INTERNAL REVENUE CODE.THE COMPENSATION COMMITTEE OF THE BOARD OF TRUSTEES SHALL BE CHARGED WITH COLLECTING COMPARABILITY DATA AS TO THE COMPENSATION ARRANGEMENTS FOR SIMILARLY QUALIFIED PERSONS IN FUNCTIONALLY COMPARABLE POSITIONS AT SIMILARLY SITUATED SCHOOLS.UPON REVIEW OF THE COMPENSATION COMMITTEE'S COMPARABILITY DATA, THE BOARD OF TRUSTEES SHALL APPROVE THE COMPENSATION ARRANGEMENT FOR THE HEAD OF SCHOOL AND ANY OTHER "DISQUALIFIED PERSON". ANY BOARD MEMBER WITH A CONFLICT OF INTEREST WITH RESPECT TO THE COMPENSATION ARRANGEMENT UNDER DISCUSSION SHALL NOT PARTICIPATE IN THE DECISION ON THAT COMPENSATION ARRANGEMENT.THE BOARD OF TRUSTEES SHALL MAINTAIN CONTEMPORANEOUS DOCUMENTATION WITH RESPECT TO DELIBERATIONS AND DECISIONS REGARDING THE AFOREMENTIONED COMPENSATION ARRANGEMENTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Line 19: Other Organization Documents Publicly Available</FormAndLineReferenceDesc>
+        <ExplanationTxt>Upon Request and Available for view on Guidestar.org.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ADMIN-OTHER: Column (A) - Total = $172715; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $172715; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ADMIN-PROFESSIONAL SERVICES: Column (A) - Total = $96986; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $96986; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ADMIN-PROMOTIONAL ACTIVITIES: Column (A) - Total = $261232; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $261232; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALUM EXPENSES-OTHER: Column (A) - Total = $56039; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $56039</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALUM MAILING EXPENSES: Column (A) - Total = $413; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $413</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALUM ORGANIZATIONAL EXP: Column (A) - Total = $3546; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $3546</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALUM PUBLICATIONS/PROMOTIONS: Column (A) - Total = $3580; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $3580</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>COMMUNICATIONS: Column (A) - Total = $38472; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $38472; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>INSTRUCTIONAL FACULTY SUPPORT: Column (A) - Total = $142244; Column (B) - Program Services = $142244; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>INSTRUCTIONAL OTHER COSTS: Column (A) - Total = $65212; Column (B) - Program Services = $65212; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>LOWER FACULTY SUPPLIES: Column (A) - Total = $37036; Column (B) - Program Services = $37036; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>MAILING EXPENSES: Column (A) - Total = $3307; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $3307</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>ORGANIZATIONAL EXP: Column (A) - Total = $25517; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $25517</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTHER ADMIN SUPPORT: Column (A) - Total = $88631; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $88631; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTHER DEVELOPMENT EXP: Column (A) - Total = $46327; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $46327</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>PLANT REPAIRS: Column (A) - Total = $115360; Column (B) - Program Services = $115360; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>PLANT SUPPLIES: Column (A) - Total = $190151; Column (B) - Program Services = $190151; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>PRRSM: Column (A) - Total = $72751; Column (B) - Program Services = $72751; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>PUBLICATIONS/PROMOTION: Column (A) - Total = $64361; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $64361</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>SUMMER PROGRAM EXPENSES: Column (A) - Total = $188062; Column (B) - Program Services = $188062; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>TECHNOLOGY INSTRUCTIONAL: Column (A) - Total = $134262; Column (B) - Program Services = $134262; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>TEMP REST GIFT SPENDING: Column (A) - Total = $226205; Column (B) - Program Services = $226205; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>TRANSPORTATION EXPENSES: Column (A) - Total = $27500; Column (B) - Program Services = $27500; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>UPPER FACULTY SUPPLIES: Column (A) - Total = $51075; Column (B) - Program Services = $51075; Column (C) - Management &amp; General = $0; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part IX, Line 24e: Other Expenses</FormAndLineReferenceDesc>
+        <ExplanationTxt>UPPER SCHOOL - ADMIN SUPPORT: Column (A) - Total = $156417; Column (B) - Program Services = $0; Column (C) - Management &amp; General = $156417; Column (D) - Fundraising = $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Changes In Net Assets Or Fund Balances - Other Increases</FormAndLineReferenceDesc>
+        <ExplanationTxt>P/V ADJ TO ANNUITIES = $71610</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

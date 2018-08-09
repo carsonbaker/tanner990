@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-11-11T09:05:04-06:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>560574444</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CHERRY BEKAERT LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1111 Metropolitan Ave Ste 1000</AddressLine1Txt>
+        <CityNm>Charlotte</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>28204</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>510236362</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Christchurch School Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHRI</BusinessNameControlTxt>
+      <PhoneNum>8047582306</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O CHRISTCHURCH SCHOOL</AddressLine1Txt>
+        <CityNm>CHRISTCHURCH</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>23031</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SANDRA E SCOTT</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>8047582306</PhoneNum>
+      <SignatureDt>2016-11-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Janice A Ratica</PreparerPersonNm>
+      <PTIN>P00358837</PTIN>
+      <PhoneNum>7043771678</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>SANDRA E SCOTT</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>C/O CHRISTCHURCH SCHOOL</AddressLine1Txt>
+        <CityNm>CHRISTCHURCH</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>23031</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>3530087</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.CHRISTCHURCHSCHOOL.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1978</FormationYr>
+      <LegalDomicileStateCd>VA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>TO FOSTER AND PROMOTE THE WELFARE AND DEVELOPMENT OF CHRISTCHURCH SCHOOL.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>11</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>11</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalVolunteersCnt>16</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>716464</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>1098519</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>0</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>543538</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>501580</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>14548</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>17421</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>1274550</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>1617520</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>1227887</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>1263875</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>0</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>210801</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>70416</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>1438688</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>1334291</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-164138</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>283229</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>7298374</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>6632734</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>839670</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>298358</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>6458704</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>6334376</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>THE MISSION OF THE FOUNDATION IS TO RAISE FUNDS IN SUPPORT OF CHRISTCHURCH SCHOOL, A CHURCH SCHOOL IN THE EPISCOPAL DIOCESE OF VIRGINIA. THE SCHOOL OFFERS HIGH SCHOOL BOYS AND GIRLS COLLEGE PREPARATORY EDUCATION THROUGH A COMMUNITY OF TEACHERS AND STAFF COMMITTED TO THEIR GROWTH AND DEVELOPMENT.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>1263875</ExpenseAmt>
+      <GrantAmt>1263875</GrantAmt>
+      <RevenueAmt>17421</RevenueAmt>
+      <Desc>THE FOUNDATION MAKES GRANTS TO CHRISTCHURCH SCHOOL FOR SCHOLARSHIPS,FACULTY, ANNUAL GIVING AND OTHER RESTRICTED PURPOSES. CHRISTCHURCH SCHOOL CURRENTLY ENROLLS 205 STUDENTS, WITH MORE THAN $1.2 MILLION IN FINANCIAL ASSISTANCE AWARDED. IN ADDITION, THE GRANTS TO THE SCHOOL ARE UTILIZED FOR VARIOUS BUILDING PROJECTS AS WELL AS TEACHER'S BENEFITS AND FACULTY SUPPORT.</Desc>
+      <TotalProgramServiceExpensesAmt>1263875</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="RetDoc1040000001">1</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">1</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">1</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">0</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="RetDoc1041900001">0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>0</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>0</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd referenceDocumentId="RetDoc1042900001">0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd>0</DisregardedEntityInd>
+      <RelatedEntityInd>0</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>11</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>11</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>0</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>0</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>0</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>VA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>SANDRA SCOTT</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>8047582306</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>49 SEAHORSE LANE</AddressLine1Txt>
+          <CityNm>CHRISTCHURCH</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23031</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>0-n8m90-</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR AUGUSTINE LEWIS</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Mark O Sullivan</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JOHN CHRISTOPHER UPTON</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>C Nelson Williams IV</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>GRAHAM H NEAL JR</PersonNm>
+        <TitleTxt>TRUstee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JOHN K O'SHAUGHNESSY</PersonNm>
+        <TitleTxt>TRUstee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>E CHERBURY HUNT</PersonNm>
+        <TitleTxt>TRUSTEE</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>John Alachnowicz</PersonNm>
+        <TitleTxt>TRUSTEE</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>William Butler</PersonNm>
+        <TitleTxt>Trustee</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ANDREW NEA JR</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SANDRA E SCOTT</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>john e byers</PersonNm>
+        <TitleTxt>headmaster</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>0</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <AllOtherContributionsAmt>1098519</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>64625</NoncashContributionsAmt>
+      <TotalContributionsAmt>1098519</TotalContributionsAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>89510</TotalRevenueColumnAmt>
+        <ExclusionAmt>89510</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>2324637</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>1912567</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>412070</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>412070</TotalRevenueColumnAmt>
+        <ExclusionAmt>412070</ExclusionAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER INCOME</Desc>
+        <BusinessCd>611600</BusinessCd>
+        <TotalRevenueColumnAmt>17421</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>17421</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>17421</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>1617520</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>17421</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>501580</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>1263875</TotalAmt>
+        <ProgramServicesAmt>1263875</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>28657</TotalAmt>
+        <ManagementAndGeneralAmt>28657</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>17398</TotalAmt>
+        <ManagementAndGeneralAmt>17398</ManagementAndGeneralAmt>
+      </FeesForServicesOtherGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>5874</TotalAmt>
+        <ManagementAndGeneralAmt>5874</ManagementAndGeneralAmt>
+      </DepreciationDepletionGrp>
+      <OtherExpensesGrp>
+        <Desc>Bad debt Loss</Desc>
+        <TotalAmt>18487</TotalAmt>
+        <ManagementAndGeneralAmt>18487</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>1334291</TotalAmt>
+        <ProgramServicesAmt>1263875</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>70416</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>884262</BOYAmt>
+        <EOYAmt>409485</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>1029022</BOYAmt>
+        <EOYAmt>1013272</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>171510</BOYAmt>
+        <EOYAmt>185269</EOYAmt>
+      </AccountsReceivableGrp>
+      <LandBldgEquipCostOrOtherBssAmt>569902</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>23435</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>549646</BOYAmt>
+        <EOYAmt>546467</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>4036930</BOYAmt>
+        <EOYAmt>4321773</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>627004</BOYAmt>
+        <EOYAmt>156468</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>7298374</BOYAmt>
+        <EOYAmt>6632734</EOYAmt>
+      </TotalAssetsGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>839670</BOYAmt>
+        <EOYAmt>298358</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>839670</BOYAmt>
+        <EOYAmt>298358</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>1984967</BOYAmt>
+        <EOYAmt>1874968</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TemporarilyRstrNetAssetsGrp>
+        <BOYAmt>2147049</BOYAmt>
+        <EOYAmt>2085149</EOYAmt>
+      </TemporarilyRstrNetAssetsGrp>
+      <PermanentlyRstrNetAssetsGrp>
+        <BOYAmt>2326688</BOYAmt>
+        <EOYAmt>2374259</EOYAmt>
+      </PermanentlyRstrNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>6458704</BOYAmt>
+        <EOYAmt>6334376</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>7298374</BOYAmt>
+        <EOYAmt>6632734</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>283229</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>-407557</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <InfoInScheduleOPartXIIInd>X</InfoInScheduleOPartXIIInd>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>1574553</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>2664313</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>1252104</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>716464</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1098519</CurrentTaxYearAmt>
+        <TotalAmt>7305953</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>1574553</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>2664313</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>1252104</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>716464</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1098519</CurrentTaxYearAmt>
+        <TotalAmt>7305953</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>1514595</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>5791358</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>64918</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>63647</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>74240</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>77400</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>89510</CurrentTaxYearAmt>
+        <TotalAmt>369715</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>12737</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>15898</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>16591</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>14548</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>17421</CurrentTaxYearAmt>
+        <TotalAmt>77195</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>7752863</TotalSupportAmt>
+      <PublicSupportCY170Pct>0.74700</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.77550</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>3025196</BeginningYearBalanceAmt>
+        <ContributionsAmt>47571</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>39049</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>106818</OtherExpendituresAmt>
+        <EndYearBalanceAmt>3004998</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>2960345</BeginningYearBalanceAmt>
+        <ContributionsAmt>3625</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>141280</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>80054</OtherExpendituresAmt>
+        <EndYearBalanceAmt>3025196</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>3004762</BeginningYearBalanceAmt>
+        <ContributionsAmt>2162</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>397886</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>444465</OtherExpendituresAmt>
+        <EndYearBalanceAmt>2960345</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>2506239</BeginningYearBalanceAmt>
+        <ContributionsAmt>210676</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>348820</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>60973</GrantsOrScholarshipsAmt>
+        <EndYearBalanceAmt>3004762</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>2121001</BeginningYearBalanceAmt>
+        <ContributionsAmt>265790</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>86548</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>67100</GrantsOrScholarshipsAmt>
+        <OtherExpendituresAmt>-100000</OtherExpendituresAmt>
+        <EndYearBalanceAmt>2506239</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>0.00000</BoardDesignatedBalanceEOYPct>
+      <PrmnntEndowmentBalanceEOYPct>0.79010</PrmnntEndowmentBalanceEOYPct>
+      <TermEndowmentBalanceEOYPct>0.20990</TermEndowmentBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>0</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>0</EndowmentsHeldRelatedOrgInd>
+      <LandGrp>
+        <InvestmentCostOrOtherBasisAmt>479055</InvestmentCostOrOtherBasisAmt>
+        <BookValueAmt>479055</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>90847</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>23435</DepreciationAmt>
+        <BookValueAmt>67412</BookValueAmt>
+      </BuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>546467</TotalBookValueLandBuildingsAmt>
+      <OtherSecuritiesGrp>
+        <Desc>GOVERNMENT AND CORPORATE OBLIGATIONS</Desc>
+        <BookValueAmt>714596</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>EQUITY SECURITIES</Desc>
+        <BookValueAmt>3171303</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>CSDV POOLED FUNDS</Desc>
+        <BookValueAmt>435874</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>4321773</TotalBookValueSecuritiesAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>DUE TO CHRISTCHURCH SCHOOL</Desc>
+        <Amt>298358</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>298358</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <TotalRevEtcAuditedFinclStmtAmt>1349937</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>-407557</NetUnrealizedGainsInvstAmt>
+      <DonatedServicesAndUseFcltsAmt>187118</DonatedServicesAndUseFcltsAmt>
+      <OtherRevenueAmt>-18487</OtherRevenueAmt>
+      <RevenueNotReportedAmt>-238926</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>1588863</RevenueSubtotalAmt>
+      <InvestmentExpensesNotIncldAmt>28657</InvestmentExpensesNotIncldAmt>
+      <RevenueNotReportedFinclStmtAmt>28657</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>1617520</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>1474265</TotExpnsEtcAuditedFinclStmtAmt>
+      <DonatedServicesUseFcltsAmt>187118</DonatedServicesUseFcltsAmt>
+      <ExpensesNotReportedAmt>187118</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>1287147</ExpensesSubtotalAmt>
+      <InvestmentExpensesNotIncld2Amt>28657</InvestmentExpensesNotIncld2Amt>
+      <OtherExpensesNotIncludedAmt>18487</OtherExpensesNotIncludedAmt>
+      <ExpensesNotRptFinclStmtAmt>47144</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>1334291</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part V, Line 4:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FOUNDATION'S ENDOWMENT FUNDS ARE PROVIDED TO CHRISTCHURCH SCHOOL TO HELP SUPPORT SCHOLARSHIPS, PROFESSIONAL DEVELOPMENT, SALARIES AND BENEFITS, OTHER OPERATING EXPENSES AND VARIOUS SPECIAL FUNDS FOR SPECIFIC PURPOSES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part X, Line 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>MANAGEMENT HAS EVALUATED THE EFFECT OF GUIDANCE PROVIDED BY U.S. GAAP ON ACCOUNTING FOR UNCERTAINTY IN INCOME TAXES. MANAGEMENT BELIEVES THAT THE FOUNDATION CONTINUES TO SATISFY THE REQUIREMENTS OF TAX-EXEMPT ORGANIZATION AT JUNE 30, 2016. MANAGEMENT HAS EVALUATED ALL OTHER TAX POSITIONS THAT COULD HAVE A SIGNIFICANT EFFECT ON THE FINANCIAL STATEMENTS AND DETERMINED THAT THE FOUNDATION HAD NO UNCERTAIN INCOME TAX POSITIONS AT JUNE 30, 2016.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part XI, Line 2d - Other Adjustments:</FormAndLineReferenceDesc>
+        <ExplanationTxt>bad debt loss reported net of revenues on financial statements -18,487.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part XII, Line 4b - Other Adjustments:</FormAndLineReferenceDesc>
+        <ExplanationTxt>BAD DEBT LOSS REPORTED NET OF REVENUES ON FINANCIAL STATEMENTS 18,487.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <GrantRecordsMaintainedInd>1</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>CHRISTCHURCH SCHOOL</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>49 SEAHORSE LANE</AddressLine1Txt>
+          <CityNm>CHRISTCHURCH</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23031</ZIPCd>
+        </USAddress>
+        <RecipientEIN>540505886</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>1263875</CashGrantAmt>
+        <PurposeOfGrantTxt>SCHOOL OPERATIONS &amp; RESTRICTED FOR SCHOLARSHIPS, FACULTY EXPENSES, AWARDS AND ATHLETICS</PurposeOfGrantTxt>
+      </RecipientTable>
+      <Total501c3OrgCnt>1</Total501c3OrgCnt>
+      <TotalOtherOrgCnt>0</TotalOtherOrgCnt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I, Line 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE TREASURER OF THE FOUNDATION CONFIRMS THE RECEIPT AND ENSURES FUNDS ARE USED FOR THE SPECIFIC PURPOSES NOTED BY THIS ORGANIZATION. GRANTS ARE BASED ON DONOR'S SPECIFIC INTENT, THE ORGANIZATION'S ENDOWMENT SPENDING POLICY, AND THE REIMBURSEMENTS OF ACTUAL EXPENDITURES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <SecuritiesPubliclyTradedGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <ContributionCnt>1</ContributionCnt>
+        <NoncashContributionsRptF990Amt>30125</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>MEAN MARKET VALUE</MethodOfDeterminingRevenuesTxt>
+      </SecuritiesPubliclyTradedGrp>
+      <RealEstateOtherGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <ContributionCnt>1</ContributionCnt>
+        <NoncashContributionsRptF990Amt>34500</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>Fair Market Value</MethodOfDeterminingRevenuesTxt>
+      </RealEstateOtherGrp>
+      <Form8283ReceivedCnt>0</Form8283ReceivedCnt>
+      <AnyPropertyThatMustBeHeldInd>0</AnyPropertyThatMustBeHeldInd>
+      <ReviewProcessUnusualNCGiftsInd>1</ReviewProcessUnusualNCGiftsInd>
+      <ThirdPartiesUsedInd>1</ThirdPartiesUsedInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I, Line 32b:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION USES A THIRD PARTY INVESTMENT BROKER TO RECEIVE AND SELL GIFTS OF STOCK OR OTHER SECURITIES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section A, line 8b</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE QUESTION IS NOT APPLICABLE AS THERE ARE NO COMMITTEES WITH THE AUTHORITY TO ACT ON BEHALF OF THE GOVERNING BODY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>PRIOR TO FILING THE FORM 990, MANAGEMENT AND THE BOARD TREASURER REVIEW A COMPLETE COPY OF THE FORM, WHILE THE BOARD IS PROVIDED WITH A PUBLIC DISCLOSURE COPY OF THE FORM 990 TO REVIEW. A FULL COPY OF THE 990 WILL BE MADE AVAILABLE TO THE BOARD PRIOR TO FILING, AND WILL BE KEPT AT THE BUSINESS MANAGER'S OFFICE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 12c</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE BOARD MEMBERS ARE REQUIRED TO SIGN A STATEMENT EACH YEAR ACKNOWLEDGING THAT THEY UNDERSTAND AND AGREE TO ABIDE BY THE CONFLICTS OF INTEREST POLICY. IN THE EVENT THAT A BOARD MEMBER HAS A POTENTIAL CONFLICT OF INTEREST DURING THE YEAR, SUCH BOARD MEMBER SHALL RECUSE HIMSELF/HERSELF FROM ALL DISCUSSIONS OR VOTE ON THE MATTER.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>FORM 990, PART VI, SECTION B, QUESTIONS 15A AND 15B ARE NOT APPLICABLE BECAUSE THERE ARE NO EMPLOYEES OF THE FOUNDATION. INDIVIDUALS WHO PERFORM SERVICES FOR THE FOUNDATION ARE EMPLOYED BY CHRISTCHURCH SCHOOL. THE SCHOOL'S COMPENSATION POLICIES ARE FOLLOWED WHEN DETERMINING COMPENSATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section C, line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION'S Governing documents, financial statements and conflict of interest policy are made available TO THE PUBLIC upon request.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part XII, Line 2c:</FormAndLineReferenceDesc>
+        <ExplanationTxt>The entity did not change the oversight process or selection process during the tax year.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

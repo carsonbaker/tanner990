@@ -66,30 +66,66 @@ selectors = %w(
 
   /Return/ReturnData/IRS990/MissionDesc
 
-
   /Return/ReturnData/IRS990/AccountsReceivableGrp/BOYAmt
   /Return/ReturnData/IRS990/AccountsReceivableGrp/EOYAmt
 )
 
+grants_other_asst = "/Return/ReturnData/IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp"
+
 # /Return/ReturnData/IRS990/ProgramServiceRevenueGrp/TotalRevenueColumnAmt
 # /Return/ReturnData/IRS990/ProgramServiceRevenueGrp/RelatedOrExemptFuncIncomeAmt
 
+# Pretty column names from the xpath
+def pretty_col_name(xpath)
+  name_parts = xpath.split(/\//).drop(3)
+  name_parts.shift if name_parts.first == "IRS990"
+  name_parts.join('-')
+end
+
 csv_string = CSV.generate do |csv|
 
-  csv << selectors.map { |s| s.split(/\//).drop(2).join('-') }
+  # For xpath selectors that reference multi-dimensional data, flatten
+  # to fill the amount of "room" that we decide to give each selector.
+
+  grants_other_asst_room = 4 # known from inspection
+
+  cols_2 = Array.new(grants_other_asst_room) { |i|
+    [
+      grants_other_asst + "-#{i}-txt",
+      grants_other_asst + "-#{i}-recip-count",
+      grants_other_asst + "-#{i}-cash-grant-amt",
+      grants_other_asst + "-#{i}-non-cash-asst-amt",
+      grants_other_asst + "-#{i}-valuation-method",
+      grants_other_asst + "-#{i}-non-cash-asst-desc"
+    ]
+  }
+
+  # Write columns to CSV
+  csv << [selectors, cols_2].flatten.map { |s| pretty_col_name(s) }
 
   ARGV.each do |a|
 
-    STDERR.puts "Processing #{a}"
-
     document = File.open(a) { |f| Oga.parse_xml(f) }
 
-    csv << selectors.map do |s|
+    row_data_1 = selectors.map do |s|
       el = document.at_xpath(s)
       if el
         el.text
       end
     end
+
+    row_data_2 = document.xpath(grants_other_asst).map do |grant|
+      [
+        grant.xpath("GrantTypeTxt").text,
+        grant.xpath("RecipientCnt").text, 
+        grant.xpath("CashGrantAmt").text, 
+        grant.xpath("NonCashAssistanceAmt").text,
+        grant.xpath("ValuationMethodUsedDesc").text,
+        grant.xpath("NonCashAssistanceDesc").text
+      ]
+    end
+
+    csv << row_data_1.concat(row_data_2.flatten)
 
   end
 

@@ -3,6 +3,8 @@
 require 'csv'
 require 'oga'
 
+require './helper'
+
 selectors = %w(
   /Return/ReturnHeader/Filer/EIN
   /Return/ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt
@@ -74,13 +76,6 @@ grants_other_asst = "/Return/ReturnData/IRS990ScheduleI/GrantsOtherAsstToIndivIn
 
 # /Return/ReturnData/IRS990/ProgramServiceRevenueGrp/TotalRevenueColumnAmt
 # /Return/ReturnData/IRS990/ProgramServiceRevenueGrp/RelatedOrExemptFuncIncomeAmt
-
-# Pretty column names from the xpath
-def pretty_col_name(xpath)
-  name_parts = xpath.split(/\//).drop(3)
-  name_parts.shift if name_parts.first == "IRS990"
-  name_parts.join('-')
-end
 
 csv_string = CSV.generate do |csv|
 
